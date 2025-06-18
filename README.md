@@ -1,4 +1,4 @@
-![logo](https://github.com/Sumitkg1/Sumitkg1/blob/main/Banner.png) 
+
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
